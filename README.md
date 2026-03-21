@@ -24,4 +24,4 @@ analise_telecom_anatel/
 │   └── dashboard_telecom.pbix
 └── sql/
     └── analises_telecom.sql
-```text
+```
