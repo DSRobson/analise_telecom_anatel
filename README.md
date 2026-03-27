@@ -66,10 +66,6 @@ Focar na melhoria desses serviços pode gerar ganhos diretos na qualidade.
 
 ---
 
-## 📸 Visual do Dashboard
-![Dashboard](imagem/dashboard_1_visao_geral.png)
-
----
 
 ## 📁 Estrutura do projeto
 ```text
@@ -80,7 +76,7 @@ analise_telecom_anatel/
 ├── powerbi/
 └── sql/
 
-
+'''
 
 ________________________________________________________________________________________________
 
