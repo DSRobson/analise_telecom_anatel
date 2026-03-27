@@ -68,13 +68,15 @@ Focar na melhoria desses serviços pode gerar ganhos diretos na qualidade.
 
 
 ## 📁 Estrutura do projeto
-```text'''
+```text
 analise_telecom_anatel/
 ├── dados/
 ├── docs/
 ├── imagem/
 ├── powerbi/
-└── sql/ ```
+└── sql/
+
+```
 
 ---
 
